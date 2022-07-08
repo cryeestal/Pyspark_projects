@@ -2,6 +2,6 @@
 
 Massive_Data_Analysis for 500000+ data using pyspark api
 
-1. matrix projuct
+1. matrix product
 2. page rank
 3. Kmeans
