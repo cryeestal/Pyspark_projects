@@ -2,9 +2,9 @@
 
 ## Massive Data Analysis for 500000+ data using pyspark api
 
-## 1. page rank algorithm
+## 1. Google Page Rank Algorithm
 ![Variable Declaration](/pyspark_img/pagerank.jpeg)
-## 2. Kmeans clustering algorithm
+## 2. Kmeans Clustering Algorithm
 * c1:randomly choose center 
 * c2:choose long-distance points
 * k = 10 keep iteration
