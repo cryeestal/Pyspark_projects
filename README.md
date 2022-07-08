@@ -6,12 +6,14 @@
 ## What is pagerank?
 ![Variable Declaration](/pyspark_img/googlepagerank.jpeg)
 ## Example
-* keep iteration k=10
+* keep iteration 
+* k=10
 ![Variable Declaration](/pyspark_img/pagerankkkk.jpeg)
 ## 2. Kmeans Clustering Algorithm
 * c1:randomly choose center 
 * c2:choose long-distance points
-* k = 10 keep iteration
+* keep iteration
+* k=10
 ![Variable Declaration](/pyspark_img/kmeans_algo.png
 )
 ![Variable Declaration](/pyspark_img/kmeanss.png)
