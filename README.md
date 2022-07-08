@@ -8,7 +8,9 @@
 * c1:randomly choose center 
 * c2:choose long-distance points
 * k = 10 keep iteration
-![Variable Declaration](/pyspark_img/K-Means-Clustering.png)
+![Variable Declaration](/pyspark_img/kmeans_algo.png
+)
+![Variable Declaration](/pyspark_img/kmeanss.png)
 ## i.Euclidean distance
 ![Variable Declaration](/pyspark_img/Euclidean.png)
 ## ii.Manhattan distance
