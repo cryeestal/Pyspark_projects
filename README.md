@@ -2,11 +2,12 @@
 
 Massive_Data_Analysis for 500000+ data using pyspark api
 
-1. matrix product
+##matrix product
 ![Variable Declaration](/pyspark_img/matrix-multiplication.png)
-2. page rank algorithm
+##page rank algorithm
 ![Variable Declaration](/pyspark_img/pagerank.jpeg)
-3. Kmeans clustering algorithm
+##Kmeans clustering algorithm
+![Variable Declaration](/pyspark_img/K-Means-Clustering.png)
 c1:randomly choose center 
 c2:choose long-distance points
 i.Euclidean distance
