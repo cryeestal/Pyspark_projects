@@ -11,6 +11,7 @@
 ![Variable Declaration](/pyspark_img/kmeans_algo.png
 )
 ![Variable Declaration](/pyspark_img/kmeanss.png)
+## Result
 ## i.Euclidean distance
 ![Variable Declaration](/pyspark_img/Euclidean.png)
 ## ii.Manhattan distance
