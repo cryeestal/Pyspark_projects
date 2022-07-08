@@ -7,10 +7,11 @@
 ## page rank algorithm
 ![Variable Declaration](/pyspark_img/pagerank.jpeg)
 ## Kmeans clustering algorithm
-![Variable Declaration](/pyspark_img/K-Means-Clustering.png)
 * c1:randomly choose center 
 * c2:choose long-distance points
-* i.Euclidean distance
+* k = 10 keep iteration
+![Variable Declaration](/pyspark_img/K-Means-Clustering.png)
+## i.Euclidean distance
 ![Variable Declaration](/pyspark_img/Euclidean.png)
-* ii.Manhattan distance
+## ii.Manhattan distance
 ![Variable Declaration](/pyspark_img/manhattan.png)
