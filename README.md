@@ -1,6 +1,6 @@
 # Pyspark_Massive_Data_Analysis
 
-## Massive_Data_Analysis for 500000+ data using pyspark api
+## Massive Data Analysis for 500000+ data using pyspark api
 
 ## 1. page rank algorithm
 ![Variable Declaration](/pyspark_img/pagerank.jpeg)
