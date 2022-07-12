@@ -25,5 +25,6 @@
 ![Variable Declaration](/pyspark_img/manhattan.png)
 以cost來看，c1隨機選擇中⼼心點的⽅法比c2選擇「互相距離遠」的點為中心點的⽅式好。c1⽅法⼀開始的cost就比c2⽅法⼩，因為在多維資料中，Manhattan distance是受各維度影響，不會有偏差值被特別放大的問題，算出的是各維度差的總和，離中心近的點跟遠的點的影響力是同等的。 比起c1周圍有可能有許多距離和較小的點，⽤用c2可能會導致中心點太過分散，雖然可能沒有偏差特別大的點，導致c2⽅方法的distance跟cost比較大。
 ## 3.matrix product
-![Variable Declaration](/pyspark_img/matrix-multiplication.png)
 * 註解隨附程式碼
+![Variable Declaration](/pyspark_img/matrix-multiplication.png)
+
