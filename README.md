@@ -3,9 +3,9 @@
 ## Massive Data Analysis for 500000+ data using pyspark api
 
 ## 1. Google Page Rank Algorithm
+## Report記錄在程式碼註解中
 ## What is pagerank?
 ![Variable Declaration](/pyspark_img/googlepagerank.jpeg)
-## Report記錄在程式碼註解中
 ## Example
 * keep iteration 
 * k=10
