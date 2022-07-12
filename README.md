@@ -10,7 +10,8 @@
 * keep iteration 
 * k=10
 ![Variable Declaration](/pyspark_img/pagerankkkk.jpeg)
-## 2. Kmeans Clustering Algorithm
+## 2. Kmeans Clustering Algorithm 
+## Report
 * c1:randomly choose center 
 * c2:choose long-distance points
 * keep iteration
