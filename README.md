@@ -4,14 +4,13 @@
 
 ## 1. Google Page Rank Algorithm
 * Report記錄在程式碼註解中
-## What is pagerank?
 ![Variable Declaration](/pyspark_img/googlepagerank.jpeg)
-## Example
+## Method
 * keep iteration 
 * k=10
 ![Variable Declaration](/pyspark_img/pagerankkkk.jpeg)
 ## 2. Kmeans Clustering Algorithm 
-## Report
+## Method
 * c1:randomly choose center 
 * c2:choose long-distance points
 * keep iteration
